@@ -1,8 +1,5 @@
 # Phil Lewis
 
-## Welcome to my Github!
-I am currently a student in the Front-End Engineering program at Turing School of Software and Design. You can contact me at the links below. You can view my repositories and find links to my deployed pages in the repositories below.
-
 ## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phillewis1985@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philambroselewis/)
